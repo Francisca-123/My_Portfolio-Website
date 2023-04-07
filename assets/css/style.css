@@ -1693,16 +1693,7 @@
     }
   
   
-  .click-here{
-    color: aliceblue;
-    text-decoration: underline;
-    padding-left: 0.5em;
-  }
 
-  .click-here:hover{
-    color: rgb(219, 206, 27);
-    transition: color 0.5s linear;
-  }
   
     /**
      * NAVBAR
@@ -1889,4 +1880,14 @@
   
     .timeline-text { max-width: 700px; }
   
+  }
+  .click-here{
+    color: aliceblue;
+    text-decoration: underline;
+    padding-left: 0.5em;
+  }
+
+  .click-here:hover{
+    color: rgb(219, 206, 27);
+    transition: color 0.5s linear;
   }
